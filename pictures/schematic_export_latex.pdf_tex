@@ -1,0 +1,101 @@
+%% Creator: Inkscape inkscape 0.92.4, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'schematic_export_latex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{1085.46331931bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.55241444)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0.37399309,0.41455412){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.15891831\unitlength}\raggedright \end{minipage}}}%
+    \put(0.35719296,0.09763297){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.14238466\unitlength}\raggedright \end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{schematic_export_latex.pdf}}%
+    \put(0.41469933,0.41314556){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Finite State Machine\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{schematic_export_latex.pdf}}%
+    \put(0.33105031,0.20386274){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33746387\unitlength}\centering Address Offset Units Controller\end{minipage}}}%
+    \put(0.05173799,0.41004429){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.07747401\unitlength}\raggedright i\_clk\end{minipage}}}%
+    \put(0.05173799,0.34685907){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.07747401\unitlength}\raggedright i\_rst\end{minipage}}}%
+    \put(0.05173799,0.28543825){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.07747401\unitlength}\raggedright i\_start\end{minipage}}}%
+    \put(0.05173799,0.22331944){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.07747401\unitlength}\raggedright i\_data\end{minipage}}}%
+    \put(0.48148837,0.03769342){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}...\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{schematic_export_latex.pdf}}%
+    \put(0.27829778,0.06862451){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.0938028\unitlength}\centering Address Offset Unit \#0\\ \end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{schematic_export_latex.pdf}}%
+    \put(0.88689027,0.41077331){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.07747401\unitlength}\raggedright o\_address\end{minipage}}}%
+    \put(0.90310463,0.34828605){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.07747401\unitlength}\raggedright o\_done\end{minipage}}}%
+    \put(0.91573606,0.28686523){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.07747401\unitlength}\raggedright o\_we\end{minipage}}}%
+    \put(0.91755789,0.22474642){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.07747401\unitlength}\raggedright o\_en\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{schematic_export_latex.pdf}}%
+    \put(0.90431919,0.16739471){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.07747401\unitlength}\raggedright o\_data\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{schematic_export_latex.pdf}}%
+    \put(0.28530266,0.29166697){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.04536766\unitlength}\raggedright \end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{schematic_export_latex.pdf}}%
+    \put(0.18198599,0.32037314){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23146793\unitlength}\centering WZ Addresses Register\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{schematic_export_latex.pdf}}%
+    \put(0.35042684,0.32053508){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23146793\unitlength}\centering WZ Validity Register\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{schematic_export_latex.pdf}}%
+    \put(0.49575816,0.24141357){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08689652\unitlength}\raggedright result\_found\end{minipage}}}%
+    \put(0.61118819,0.24134137){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08689652\unitlength}\raggedright result\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{schematic_export_latex.pdf}}%
+    \put(0.59438247,0.32053509){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23146793\unitlength}\centering Address Register\\ \end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{schematic_export_latex.pdf}}%
+    \put(0.3992621,0.13414739){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.09673289\unitlength}\centering encoded address\end{minipage}}}%
+    \put(0.19847485,0.12704222){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08689652\unitlength}\raggedright wz0\_address\end{minipage}}}%
+    \put(0.32543305,0.12551052){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08689652\unitlength}\raggedright address\end{minipage}}}%
+    \put(0.72222562,0.12704222){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08689652\unitlength}\raggedright wz7\_address\end{minipage}}}%
+    \put(0.62793833,0.12551052){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08689652\unitlength}\raggedright address\end{minipage}}}%
+    \put(0.50353103,0.13414739){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.09673289\unitlength}\centering encoded address\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{schematic_export_latex.pdf}}%
+    \put(0.38367638,0.54489463){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23146793\unitlength}\centering FSM State Register\\ \end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{schematic_export_latex.pdf}}%
+    \put(0.2761076,0.48625686){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.08689652\unitlength}\raggedright next\_state\end{minipage}}}%
+    \put(0.65741332,0.48625686){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.09627367\unitlength}\raggedright current\_state\end{minipage}}}%
+    \put(0.62673354,0.06862451){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.0938028\unitlength}\centering Address Offset Unit \#7\\ \end{minipage}}}%
+  \end{picture}%
+\endgroup%
